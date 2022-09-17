@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4cc)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4cc&theme=dracula&show_icons=true)
 
 <!--
 **R4cc/r4cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
