@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4cc&theme=dracula&show_icons=true)
+## Statistics & Technologies
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=r4cc&theme=dracula&show_icons=true"/>
 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4cc&layout=compact"/>
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+  
 <!--
 **R4cc/r4cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
